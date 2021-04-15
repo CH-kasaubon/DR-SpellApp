@@ -1,0 +1,78 @@
+Runes,Class,Col for lookup,Difficulty,Power,Alignment,Opposite,Notes
+,,,,,,,
+Fire,Form,,2,2,C,Water,
+Ice,Form,,2,2,L,Lightning,
+Lightning,Form,,2,2,C,Ice,
+Law,Form,,2,2,L,Chaos,
+Chaos,Form,,2,2,C,Law,
+Stasis,Form,,2,2,L,Movement,
+Movement,Form,,2,2,C,Stasis,
+Air,Form,,2,2,C,Earth,
+Earth,Form,,2,2,L,Air,
+Water,Form,,2,2,L,Fire,
+Strength,Form,,3,2,L,Luck,
+Luck,Form,,3,2,C,Strength,
+Seeming,Form,,3,2,L,,
+Life,Form,,4,3,T,,
+,,,,,,,
+Damage,Effect,2,1,2,N,,
+Duration Damage,Effect,3,,,N,,"For flaming swords, wall of fire etc "
+Damage Sticky max,Effect,4,2,3,N,,This must be used as additional effect to cap sticky unwilling damage
+Restrict,Effect,5,2,3,N,,On Roll - or to reduce health to nil to achieve significant
+Enhance,Effect,6,2,4,N,,Usually a single roll type ie combat with axe
+Dislocate,Effect,7,3,5,C,,
+Levitate,Effect,8,4,6,C,,Requires concentration t move
+Animate,Effect,9,5,4,C,,Requires concentration
+Barrier,Effect,10,2,3,N,,
+Create,Effect,11,4,7,L,,Form is mechanism
+Destroy,Effect,12,2,7,C,,
+Warp,Effect,13,2,4,N,,
+Transform,Effect,14,5,5,T,,
+Light,Effect,15,1,0,C,,
+Obscure,Effect,16,1,0,N,,
+Find,Effect,17,,,N,,"Detects element etc - can be modified by feature. Law/Chaos has to be specifed to active spell, source, creature type or witch"
+Dispel,Effect,18,3,1,N,,
+Heal,Effect,19,,,T,,
+EffectTBA,Effect,20,,,,,
+EffectTBA,Effect,21,,,,,
+EffectTBA,Effect,22,,,,,
+Mark ,Target,,30,10,N,,
+Living,Target,,10,5,N,,
+Name,Target,,50,10,N,,
+Magic,Target,,10,5,N,,
+Undifferentiated,Target,,0,0,N,,
+Feature,Target,,60,30,N,,Usually an attribute
+Normal,Attachment,,0,0,N,,
+Suspended,Attachment,,10,30,C,,
+Sticky � Unwilling,Attachment,,20,20,N,,Effect moves with the target cast
+Sticky,Attachment,,15,10,N,,Effect moves with the target cast
+AttachTBA,Attachment,,,,,,
+AttachTBA,Attachment,,,,,,
+AttachTBA,Attachment,,,,,,
+AttachTBA,Attachment,,,,,,
+AttachTBA,Attachment,,,,,,
+Self,Range,23,,,N,,
+Touch,Range,,,,N,,
+Tiny,Range,,,,N,,
+Short,Range,,,,N,,
+Medium,Range,,,,N,,
+Long,Range,,,,N,,
+Very Long,Range,,,,N,,
+Point,Area,24,,,N,,
+Small,Area,,,,N,,
+Modest,Area,,,,N,,
+Large,Area,,,,N,,
+Very Large,Area,,,,N,,
+Contact,Delivery,,5,2,N,,
+Self,Delivery,,0,0,N,,
+Ray,Delivery,,10,5,N,,
+Direct,Delivery,,30,10,N,,
+Selective,Delivery,,50,10,N,,
+Trigger,Delivery,,60,20,N,,
+Instant,Duration,25,80,80,L,,Instant but lasts - non magical
+None,Duration,,0,0,N,,
+Transient,Duration,,0,0,N,,less than a second
+Temporary,Duration,,1,3,N,,Rounds
+Medium Term,Duration,,4,10,N,,Minutes
+Long Term,Duration,,10,20,L,,Hours
+Permanent,Duration,,75,100,L,,Permanent - magical

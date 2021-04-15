@@ -1,0 +1,22 @@
+Intensities,,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Damage,1,1,2,3,3,4,4,5,5,5,6,6,6,6,7,7,7
+Duration Damage,2,0,1,1,2,2,3,3,3,4,4,4,4,4,5,5,5
+Damage Sticky max,3,2,4,5,6,7,8,9,10,11,12,13,14,14,15,,
+Restrict,4,1,2,3,3,4,4,5,5,5,6,6,6,6,7,7,7
+Enhance,5,1,1,2,2,3,3,3,4,4,4,5,5,5,6,6,6
+Dislocate,6,Sense,Object,Living,,,,,,,,,,,,,
+Levitate,7,Waft,Walk,Run,Horse,,,,,,,,,,,,
+Animate,8,Just moving,Slow (-2),Normal,Fast (+1),,,,,,,,,,,,
+Barrier,9,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,0
+Create,10,Seeming (Plain),Gas (real)/Seeming(simply pattern),"Liquid (real)/ Seeming complex pattern, simple movement)",Soft solid (ice/earth)/ Seeming (animation),hard Solid (stone),,,,,,,,,,,
+Destroy,11,Gas,Liquid,Soft solid (wood),hard Solid,Q,,,,,,,,,,,
+Warp,12,Gradual,Quick,,,,,,,,,,,,,,
+Transform,13,Seeming(variant),Same Size/ Seeming (different person)/Fire to smoke etc,Smaller/Seeming - very different/To similar element,Larger/Combine eg earth to mud,,,,,,,,,,,,
+Light,14,Candle ,Torch,Indoor ,Daylight,,,,,,,,,,,,
+Obscure,15,Mist,Fog,Pitch Black,,,,,,,,,,,,,
+Find,16,Det:Y/N},Directoin,Dir and dist},Location,,,,,,,,,,,,
+Dispel,17,,,,,,,,,,,,,,,,
+Heal,,,,,,,,,,,,,,,,,
+EffectTBA,,,,,,,,,,,,,,,,,
+EffectTBA,,,,,,,,,,,,,,,,,
+EffectTBA,,,,,,,,,,,,,,,,,
